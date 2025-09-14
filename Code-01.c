@@ -2,7 +2,6 @@
 This is a formula. [A = S * S] */
 
 #include<stdio.h>
-
 int main()
 {
     int side;

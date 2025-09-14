@@ -2,7 +2,6 @@
 This is a formula. [A = 3.14 * R * R] */
 
 #include<stdio.h>
-
 int main()
 {   
     float pai = 3.14;
