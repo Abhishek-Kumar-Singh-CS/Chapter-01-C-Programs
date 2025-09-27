@@ -1,14 +1,8 @@
-/* This is a program to calculate the area of a square based on the number input by the user.
-This is a formula. [A = S * S] */
+// This is my first program in the c programming language.
 
 #include<stdio.h>
 int main()
 {
-    int side;
-    printf("Enter the side value : ");
-    scanf("%d",&side);
-
-    int area = side * side;
-    printf("The area of a square is : %d",area);
+    printf("Hello World.");
     return 0;
 }
